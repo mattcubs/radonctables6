@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "891811580669",
+    "project_id": "radonctables6",
+    "storage_bucket": "radonctables6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891811580669:android:aacc115c1a16b33b03cc94",
+        "android_client_info": {
+          "package_name": "co.redcanvas.radonctables6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891811580669-sglqipaag1jprkd8m7v0lc4srrdpoh1l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.redcanvas.radonctables6",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "891811580669-gjvlq5knc8q96dua2q2ii22h7oj3e889.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHecbP5KLmwfnnRioucMr1k_rIn1BqhX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891811580669-gjvlq5knc8q96dua2q2ii22h7oj3e889.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "891811580669-77fd7rju35qgst37gtm754u0n6ekqk6r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.redcanvas.radonctables6"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
